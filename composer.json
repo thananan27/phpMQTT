@@ -1,8 +1,5 @@
 {
-  "scripts": {
-    "compile": [
-      "php app/console assetic:dump --env=prod --no-debug",
-      "MyVendor\\MyClass::postDeployComposerCallback"
-    ]
+  "require": {
+    "php": "^5.5.17"
   }
 }
