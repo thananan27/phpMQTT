@@ -1,0 +1,15 @@
+{
+  "name": "phpMQTT",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
